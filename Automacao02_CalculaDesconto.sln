@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automacao02_CalculaDesconto", "Automacao02_CalculaDesconto\Automacao02_CalculaDesconto.csproj", "{358789C3-A33D-4291-BB7F-FC23A6B74C93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automacao02_CalculaDescontoTest", "Automacao02_CalculaDescontoTest\Automacao02_CalculaDescontoTest.csproj", "{8C4D63C1-BD73-4CF9-B788-28A6B2D0C0A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{358789C3-A33D-4291-BB7F-FC23A6B74C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358789C3-A33D-4291-BB7F-FC23A6B74C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358789C3-A33D-4291-BB7F-FC23A6B74C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358789C3-A33D-4291-BB7F-FC23A6B74C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4D63C1-BD73-4CF9-B788-28A6B2D0C0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4D63C1-BD73-4CF9-B788-28A6B2D0C0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4D63C1-BD73-4CF9-B788-28A6B2D0C0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4D63C1-BD73-4CF9-B788-28A6B2D0C0A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
