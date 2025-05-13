@@ -37,6 +37,7 @@ namespace Automacao02_CalculaDescontoTest
 
         [TestMethod]
         [DataRow(200, 0)]
+        [DataRow(5632.45f, 0.03f)]
         public void valor_DeveRetornarPercDesconto(float valor, float esperado)
         {
             // - Act Executa o artefato a ser testado
