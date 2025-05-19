@@ -1,0 +1,15 @@
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\bin\Debug\net8.0\Automacao02_CalculaDesconto.exe
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\bin\Debug\net8.0\Automacao02_CalculaDesconto.deps.json
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\bin\Debug\net8.0\Automacao02_CalculaDesconto.runtimeconfig.json
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\bin\Debug\net8.0\Automacao02_CalculaDesconto.dll
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\bin\Debug\net8.0\Automacao02_CalculaDesconto.pdb
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\obj\Debug\net8.0\Automacao02_CalculaDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\obj\Debug\net8.0\Automacao02_CalculaDesconto.AssemblyInfoInputs.cache
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\obj\Debug\net8.0\Automacao02_CalculaDesconto.AssemblyInfo.cs
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\obj\Debug\net8.0\Automacao02_CalculaDesconto.csproj.CoreCompileInputs.cache
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\obj\Debug\net8.0\Automacao02_CalculaDesconto.sourcelink.json
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\obj\Debug\net8.0\Automacao02_CalculaDesconto.dll
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\obj\Debug\net8.0\refint\Automacao02_CalculaDesconto.dll
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\obj\Debug\net8.0\Automacao02_CalculaDesconto.pdb
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\obj\Debug\net8.0\Automacao02_CalculaDesconto.genruntimeconfig.cache
+C:\Users\etec\source\repos\Automacao02_CalculaDesconto\Automacao02_CalculaDesconto\obj\Debug\net8.0\ref\Automacao02_CalculaDesconto.dll
